@@ -1,4 +1,6 @@
-
+/**
+ * Book model
+ */
 export default interface Book{
     uuid?:string,
     title:string,
